@@ -22,7 +22,7 @@ export const Socials: Record<string, Record<string, string>> = {
 	// skype: { url: 'https://skype.com/userName' },
 	// slack: { url: 'https://slack.com/userName' },
 	// messenger: { url: 'https://messenger.com/userName' },
-	// whatsapp: { url: 'https://whatsapp.com/userName' },
+	whatsapp: { url: 'https://api.whatsapp.com/send?phone=5542998188268' },
 	// snapchat: { url: 'https://snapchat.com/userName' },
 	// line: { url: 'https://line.com/userName' },
 	twitch: { url: 'https://twitch.com/henalecam' },
