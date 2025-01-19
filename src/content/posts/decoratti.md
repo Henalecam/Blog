@@ -1,7 +1,10 @@
 ---
+slug: decoratti
 title: Minha Experiência com a Decoratti
-description: Um relato sobre os aprendizados e desafios enfrentados ao criar uma loja de dropshipping focada em produtos para casa.
+description: Um relato sobre os aprendizados e desafios enfrentados ao criar uma loja de dropshipping focada em produtos para casa e decoração.
+Um aprendizado sobre como vender, analisar e entregar a melhor propaganda e produto ao seu cliente. (Atualizado conforme lembro de mais detalhes)
 date: 2025-01-19T00:00:00+00:00
+image: ../attachments/decoratti.png
 tags:
   - dropshipping
   - empreendedorismo
