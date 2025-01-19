@@ -1,54 +1,77 @@
-
+---
+title: Minha Experiência com a Decoratti
+description: Um relato sobre os aprendizados e desafios enfrentados ao criar uma loja de dropshipping focada em produtos para casa.
+date: 2024-01-19T00:00:00+00:00
+tags:
+  - dropshipping
+  - empreendedorismo
+  - marketing
+  - e-commerce
+toc: true
+---
 
 # Minha Experiência com a Decoratti
 
-Em 2024 tive a brilhante ideia de explorar as formas de fazer o dinheiro rodar, uma das opções que me interessei foi em dropshipping, e foi aí que iniciei a Decoratti, durou alguns meses mas consegui ter uma experiência incrível com a loja e um ótimo retorno, tanto financeiro quanto de aprendizado.
+Em 2024, tive a brilhante ideia de explorar novas formas de fazer o dinheiro rodar. Uma das opções que mais me interessaram foi o dropshipping, o que me levou a criar a Decoratti. Apesar de durar apenas alguns meses, essa experiência me proporcionou um aprendizado único e um ótimo retorno financeiro.
 
 ## O que eu sentia
 
-Eu sou uma pessoa extremamente interessada em aprender e empreender, e na Decoratti tive muito disso, porém uma dificuldade que eu sempre tive, e isso me abriu os olhos foi sobre ver o que eu ignoro, vender o que eu não compraria, e oferecer o que eu não aceitaria, isso foi um grande desafio para mim.
+Sempre fui uma pessoa extremamente interessada em aprender e empreender, e a Decoratti foi um campo perfeito para isso. No entanto, enfrentei desafios pessoais, como vender produtos que eu mesmo não compraria ou oferecer algo que eu talvez não considerasse atraente.
 
-Como por exemplo, ao rolar reels, tiktoks, propagandas do facebook, meu cérebro ignorava completamente essas publicações, mas ao mexer com a Decoratti, além de entender a importância também.
+Ao iniciar a loja, passei a prestar atenção em algo que antes ignorava: reels, TikToks e propagandas no Facebook. Antes, meu cérebro filtrava completamente esses conteúdos, mas com a Decoratti, entendi como essas ferramentas podem ser poderosas. O algoritmo segmenta o público com base em seus interesses, permitindo que alcancemos as pessoas certas, o que é incrível! 🎯
 
-Eu nunca dei atenção, mas quantas pessoas dão? e como o algoritmo funciona? O algoritmo separa as pessoas que se interessam e as que não se interessam, e isso é incrível, pois você consegue atingir um público que realmente compraria o seu produto.
-
-O que me fez entender que o marketing é uma ferramenta incrível, e que se bem utilizada pode trazer um retorno incrível para qualquer negócio.
+Essa vivência me fez compreender que o marketing é uma ferramenta essencial. Quando usado de forma estratégica, ele pode transformar um negócio e trazer retornos extraordinários.
 
 ## O que eu aprendi
 
-A Decoratti me ensinou muito, e eu sou muito grato por isso, aprendi muito sobre o mercado, sobre o comportamento do consumidor, sobre o marketing e sobre a importância de um bom atendimento ao cliente.
+A Decoratti foi um divisor de águas para mim. Aprendi muito sobre:
 
-Não precisa reinventar a roda, basta entender como ela funciona e como você pode fazer ela girar mais rápido, além de como aproveitar as oportunidades de quem já fez isso.
+- **Comportamento do consumidor**: Como os clientes pensam e o que realmente os motiva a comprar.
+- **Marketing digital**: A importância de utilizar as ferramentas certas para atingir o público correto.
+- **Atendimento ao cliente**: Como construir relações de confiança e superar a insegurança de comprar online.
 
-A melhor forma de vender para o cliente é através da conversa e da confiança, como muitos compradores se sentem inseguros ao comprar pela internet, é importante a interação para um relacionamento interpessoal.
+Não é necessário reinventar a roda, mas sim entender como ela funciona e encontrar maneiras de fazê-la girar mais rápido. Além disso, é essencial observar e aprender com quem já tem experiência no mercado.
 
+A conversa e a confiança são as melhores formas de vender. Em um ambiente onde muitos consumidores ainda sentem receio de comprar online, um atendimento atencioso pode fazer toda a diferença.
 
 ## O que eu faria diferente
 
-Se eu tivesse mais tempo e dinheiro para investir com toda a absoluta certeza montaria um cenário, compraria uma câmera, um microfone, manteria um estoque dos meus produtos e faria um marketing mais agressivo e criativo, com certeza teria um retorno muito maior.
+Se tivesse mais tempo e dinheiro para investir, faria as seguintes melhorias:
 
-Entre esses pontos posso destacar muito sobre a importância de um bom atendimento ao cliente, a importância de um bom marketing e como tudo depende de como se vende.
+1. **Produção de conteúdo visual**: Criaria um cenário profissional, com câmera e microfone de qualidade, para gravar vídeos de demonstração e publicidade dos produtos. 
+2. **Marketing mais agressivo**: Investiria em campanhas criativas e personalizadas, explorando diferentes plataformas para engajar o público.
+3. **Estoque próprio**: Teria produtos em mãos para reduzir o tempo de entrega e aumentar a confiança dos clientes.
+4. **Parcerias estratégicas**: Firmaria parcerias com influenciadores de nicho para aumentar a confiança na marca e o alcance das campanhas.
+5. **Testes A/B em campanhas**: Realizaria mais testes para otimizar os anúncios e identificar quais abordagens funcionam melhor.
+
+Essas estratégias certamente trariam um retorno ainda maior e consolidariam a loja como referência no mercado.
 
 ## Atendimento ao Cliente
 
-O atendimento ao cliente é um dos pontos mais importantes para qualquer negócio, e com a Decoratti não foi diferente. A loja foi criada com o intuito de vender produtos para casa, e nesse setor passar a "necessidade" para o cliente é essencial.
+Na Decoratti, o atendimento ao cliente foi um dos pilares fundamentais. Como a loja vendia produtos para casa, a comunicação precisava transmitir a "necessidade" desses itens. 
 
-Eu como pessoa sempre achei difícil vender o que eu jamais compraria, por exemplo
+Foi desafiador vender algo que eu mesmo não consumiria, mas isso me ensinou a adaptar minha perspectiva e entender o ponto de vista do consumidor. A utilização de chatbots para responder dúvidas simples também ajudaria a tornar o atendimento mais ágil e eficiente.
 
-Algumas ferramentas que eu gostaria de destacar também são:
+## Ferramentas Utilizadas
 
-- **Shopify**: A plataforma que usei para criar a loja, muito intuitiva e fácil de usar além de ter uma grande variedade de puglins que ajudam a melhorar a logística.
+Durante minha jornada com a Decoratti, utilizei diversas ferramentas que facilitaram o gerenciamento da loja e o alcance do público-alvo:
 
-- **Clarity**: Ferramenta de análise de dados que me ajudou a entender melhor o comportamento dos meus clientes.
+| **Ferramenta**       | **Finalidade**                           |
+|-----------------------|------------------------------------------|
+| 🛒 **Shopify**        | Gerenciamento da loja e plugins que facilitavam a logística                   |
+| 📈 **Google Analytics** | Monitoramento de tráfego e desempenho |
+| 🎯 **Facebook Ads**   | Alcance e vendas no marketplace         |
+| 📊 **Instagram Ads**  | Engajamento com público visual          |
+| 🔍 **Google Ads**     | Expansão do alcance                     |
+| 🎥 **TikTok Ads**     | Visibilidade com público jovem          |
+| 🤝 **Clarity**        | Análise de comportamento do cliente     |
+| 🌟 **SouPopularNet**  | Aumentar confiança através de seguidores |
 
-- **Google Analytics**: Ferramenta de análise de dados que me ajudou a entender melhor o comportamento dos meus clientes.
+## Resultados e Conclusão
 
-- **Facebook Ads**: Ferramenta de anúncios que me ajudou a alcançar um público maior e muita venda através do marketplace do próprio.
+📊 **Resultados**: Em poucos meses conseguimos manter um Custo por Clique altíssimo com muito engajamento, conseguimos faturar além de pagar os custos para manter
 
-- **Instagram**: Ferramenta de anúncios que me ajudou a alcançar um público maior.
+A Decoratti foi mais do que um projeto de dropshipping; foi um aprendizado constante sobre como transformar desafios em oportunidades. Mesmo com sua curta duração, essa experiência foi um marco na minha trajetória empreendedora. 
 
-- **Google Ads**: Ferramenta de anúncios que me ajudou a alcançar um público maior.
+💡 *“Eu aprendi muito sobre como vender e como chegar ao cliente, seja com vídeos que engajem e causem necessidade até a influencers que se interessam em se sentirem importantes a ponto de oferecerem DESCONTAÇOS para seus followers. As opções são infinitas.”*
 
-- **Tiktok Ads**: Ferramenta de anúncios que me ajudou a alcançar um público maior.
-
-- **SouPopularNet**: Ferramenta para compra de seguidores que transmitiam mais confiança para os clientes.
