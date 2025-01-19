@@ -3,8 +3,8 @@ import type { PostHideElements } from '~/content/config';
 export const Site = 'https://astro-blog-zozo.pages.dev';
 export const SiteLanguage = 'en';
 export const SiteTitle = 'Henalecam';
-export const SiteDescription = 'Just another blog';
-export const FooterDescription = 'Be light.';
+export const SiteDescription = 'Henrique para vocês';
+export const FooterDescription = 'Viva o Caos.';
 export const AdminName = 'Henalecam';
 export const PageSize = 15;
 
