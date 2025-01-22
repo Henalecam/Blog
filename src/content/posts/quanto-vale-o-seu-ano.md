@@ -4,7 +4,7 @@ title: Quanto vale o seu ano
 description: O contraste entre os salários no Brasil e nos EUA é gritante. Receber o salário mínimo no Brasil não é suficiente para conquistar objetivos simples, como dar entrada em uma moto ou em uma casa. Isso reflete não só uma realidade financeira difícil, mas também um desgaste psicológico constante. Esse texto fala sobre como essa desigualdade motiva a busca por novas oportunidades.
 date: 2024-11-25T23:30:47+08:00
 image: ../attachments/quantovaleoseuano.jpg
-lastmod: 2024-11-25T23:30:47+08:00
+lastmod: 2025-01-22
 hidden: false
 tags:
 - motivacao
@@ -15,7 +15,7 @@ tags:
 
 # Quanto vale o seu ano?
 
-No Brasil, sempre me senti motivado pela percepção da desvalorização do trabalho. É frustrante saber que nosso salário mínimo é de apenas R$ 1.400, enquanto nos Estados Unidos, o estado com maior salário mínimo chega a $2.604,80 (cerca de R$ 15.128,93).
+No Brasil, sempre me senti motivado pela percepção da desvalorização do trabalho. É frustrante saber que nosso salário mínimo é de apenas 1.400 Reais, enquanto nos Estados Unidos, o estado com maior salário mínimo chega a 2.604,80 Dólares, cerca de 15.128,93 Reais.
 
 | Item                   | Brasil (R$) | EUA (USD)   | EUA (R$)      |
 |------------------------|-------------|-------------|---------------|
@@ -27,7 +27,7 @@ No Brasil, sempre me senti motivado pela percepção da desvalorização do trab
 
 Continuar no Brasil recebendo em Dólar é uma realidade distante, mas a diferença salarial é um fator que me motiva a buscar novas oportunidades.
 
-Isso me faz refletir sobre o valor de um ano de trabalho. Imagine alguém que receba o salário mínimo e, por sorte, não tenha custos de vida. Se essa pessoa conseguisse economizar R$ 1.400 por mês, ao fim de um ano teria R$ 16.800. O que fazer com esse dinheiro? Comprar móveis simples para a casa? Dar entrada em uma moto? Conquistas que deveriam ser mais acessíveis se tornam vitórias difíceis de se alcançar.
+Isso me faz refletir sobre o valor de um ano de trabalho. Imagine alguém que receba o salário mínimo e, por sorte, não tenha custos de vida. Se essa pessoa conseguisse economizar 1.400 Reais por mês, ao fim de um ano teria 16.800 Reais. O que fazer com esse dinheiro? Comprar móveis simples para a casa? Dar entrada em uma moto? Conquistas que deveriam ser mais acessíveis se tornam vitórias difíceis de se alcançar.
 
 O problema não é só financeiro; ele também é psicológico. No Brasil, trabalhamos duro para conseguir o básico e, muitas vezes, não conseguimos nem pagar à vista. Dependemos de financiamentos com altos juros, que perpetuam um ciclo de endividamento. Isso gera uma sensação de frustração e impotência diante da desigualdade.
 
