@@ -10,4 +10,4 @@ tags:
   - mídia
   - marketing
   - notícias falsas
-  -livro
+  - livro
