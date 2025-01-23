@@ -10,6 +10,8 @@ tags:
   - liderança
   - trabalho em equipe
   - desenvolvimento de jogos
+toc: true
+---
 
 # Devil Peach: A Experiência de Criar um Jogo +18
 
