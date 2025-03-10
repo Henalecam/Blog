@@ -22,9 +22,9 @@ Entretanto, como todo empreendimento de grande potencial, desafios também surgi
 
 ## 💡 O Surgimento da Ideia
 
-A ideia da Astro Importados surgiu ao ver um **leilão de MacBooks apreendidos pela Receita Federal**. Os preços iniciais eram atrativos, com valores mínimos de **R$ 1.100**, enquanto no mercado custavam **R$ 6.000**.
+A ideia da Astro Importados surgiu ao ver um **leilão de MacBooks apreendidos pela Receita Federal**. Os preços iniciais eram atrativos, com valores mínimos de **R$1.100**, enquanto no mercado custavam **R$6.000**.
 
-Porém, ao entender melhor o sistema de lances, percebi que apenas quem tinha valores iniciais altos poderia competir, e no fim os produtos ainda saíam por cerca de **R$ 5.000**. Um bom negócio, mas não exatamente o que eu esperava.  
+Porém, ao entender melhor o sistema de lances, percebi que apenas quem tinha valores iniciais altos poderia competir, e no fim os produtos ainda saíam por cerca de **R$5.000**. Um bom negócio, mas não exatamente o que eu esperava.  
 
 ![Imagem do leilão](../attachments/Astro/leilao.png)
 
