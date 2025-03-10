@@ -2,6 +2,7 @@
 title: Astro Importados
 description: A jornada de uma loja de produtos Apple importados, desde a concepção da ideia até os desafios enfrentados. Um projeto que ainda está em pausa, mas com planos para um retorno ainda mais forte no futuro.
 date: 2025-03-9T14:26:00+08:00
+image: ../attachments/cover/saturn.png
 tags:
   - importados
   - Apple

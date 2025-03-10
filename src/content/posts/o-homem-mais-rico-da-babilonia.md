@@ -1,8 +1,8 @@
 ---
 title: O Homem Mais Rico da Babilônia
 description: Um clássico sobre finanças pessoais, ensinando princípios atemporais de riqueza e prosperidade. Através de parábolas ambientadas na antiga Babilônia, George S. Clason mostra como administrar dinheiro de forma inteligente.
-date: 2025-03-09T14:26:00+08:00
-hidden: true
+date: 2025-01-01T14:26:00+08:00
+image: ../attachments/cover/o-homem-mais-rico-da-babilonia.jpg
 tags:
   - finanças
   - riqueza

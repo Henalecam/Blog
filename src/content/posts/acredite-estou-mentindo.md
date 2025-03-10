@@ -1,7 +1,8 @@
 ---
 title: Acredite, Estou Mentindo (Estou escrevendo nesse momento)
 description: Um livro que revela como a mídia pode ser manipulada para criar narrativas falsas e influenciar a opinião pública. Ryan Holiday expõe os bastidores da indústria da informação e como a verdade pode ser distorcida para gerar engajamento.
-date: 2025-03-09T14:26:00+08:00
+date: 2025-01-01T14:26:00+08:00
+image: ../attachments/cover/acredite-estou-mentindo.jpg
 tags:
   - mídia
   - manipulação
