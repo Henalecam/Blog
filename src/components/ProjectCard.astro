@@ -1,0 +1,57 @@
+---
+import { Picture } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+
+type Props = CollectionEntry<'projects'>;
+const project = Astro.props;
+let date = project.data.lastmod;
+if (project.data.hide?.includes('lastmod') && project.data.date) {
+	date = project.data.date;
+	if (project.data.hide?.includes('date')) {
+		date = undefined;
+	}
+}
+---
+
+<div class="my-5 flex flex-col gap-4 xl:flex-row">
+	<div class="flex grow flex-col gap-4">
+		<h2 class="text-4xl">
+			<a href={`/projects/${project.slug}`} aria-label={`Read project: ${project.data.title}`}>
+				{project.data.title}
+			</a>
+		</h2>
+		<p class="text-lg">{project.data.description}</p>
+		<div class="text-neutral-500 dark:text-neutral-400">
+			{
+				date && (
+					<time class="mr-5" datetime={date.toISOString()}>
+						{date.toLocaleDateString()}
+					</time>
+				)
+			}
+			{
+				(!project.data.hide || !project.data.hide.includes('tags')) &&
+					project.data.tags?.map((tag) => (
+						<a
+							class="mr-2 hover:text-neutral-900 dark:hover:text-neutral-100"
+							href={`/tags/${tag}/1`}
+							aria-label={`More projects of tag ${tag}`}
+						>
+							{tag}
+						</a>
+					))
+			}
+		</div>
+	</div>
+	{
+		project.data.image && (
+			<Picture
+				class="mr-4 max-w-full rounded-lg xl:max-w-sm"
+				src={project.data.image}
+				formats={['avif', 'webp']}
+				alt={`hero image for ${project.data.title}`}
+			/>
+		)
+	}
+</div>
+<hr />

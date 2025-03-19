@@ -1,0 +1,19 @@
+---
+import type { GetStaticPathsOptions } from 'astro';
+import Paginator from '~/components/Paginator.astro';
+import ProjectCard from '~/components/ProjectCard.astro';
+import { PageSize } from '~/config';
+import ScaffoldLayout from '~/layouts/ScaffoldLayout.astro';
+import { getProjects } from '~/utils/collection';
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+	return paginate(await getProjects(false, 'desc'), { pageSize: PageSize });
+}
+
+const { page } = Astro.props;
+---
+
+<ScaffoldLayout title="Portfolio" description="Latest articles." currentNav="Portfolio">
+	{page.data.map((portfolios) => <ProjectCard {...portfolios} />)}
+	<Paginator {...page} />
+</ScaffoldLayout>

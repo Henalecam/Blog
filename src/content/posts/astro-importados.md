@@ -26,11 +26,11 @@ A ideia da Astro Importados surgiu ao ver um **leilão de MacBooks apreendidos p
 
 Porém, ao entender melhor o sistema de lances, percebi que apenas quem tinha valores iniciais altos poderia competir, e no fim os produtos ainda saíam por cerca de **5.000 Reais**. Um bom negócio, mas não exatamente o que eu esperava.  
 
-![Imagem do leilão](../attachments/Astro/leilao.png)
+![Imagem do leilão](../attachments/astro/leilao.png)
 
 Foi então que meu irmão me apresentou uma loja vendendo produtos Apple por um preço **ainda menor** do que os encontrados nos leilões. Isso me intrigou: como conseguiam vender por valores tão competitivos? Será que importavam em grandes lotes?
 
-![Imagem da loja](../attachments/Astro/lojaimportado.png)
+![Imagem da loja](../attachments/astro/lojaimportado.png)
 
 Descobri que esses fornecedores importavam os produtos de maneira independente, sem depender de leilões ou revendedores tradicionais. Foi assim que decidi unir minha **experiência em marketing digital, vendas e dropshipping** para explorar esse mercado.
 
@@ -54,7 +54,7 @@ Com o crescimento, investi na identidade da loja: **embalagens personalizadas, e
 
 Porém, o mercado de importação envolve riscos. Após confiar em um fornecedor e enviar um **valor significativo**, fui surpreendido quando ele simplesmente **desapareceu com o dinheiro**. Mesmo tomando providências legais (**B.O e Mediação**), consegui recuperar **menos de 10% do valor total**.
 
-![Imagem do MED](../attachments/Astro/Med.png)
+![Imagem do MED](../attachments/astro/Med.png)
 
 Diante desse golpe, decidi **dar uma pausa, estudar o mercado e reavaliar as estratégias** antes de seguir adiante.
 

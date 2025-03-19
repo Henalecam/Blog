@@ -1,0 +1,31 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import MarkdownLayout from '~/layouts/MarkdownLayout.astro';
+import { getProjects } from '~/utils/collection';
+
+export async function getStaticPaths() {
+	return (await getProjects()).map((project) => ({
+		params: { slug: project.slug },
+		props: project,
+	}));
+}
+
+type Props = CollectionEntry<'projects'>;
+
+const project = Astro.props;
+const socialImage = project.data.image?.src ?? `${Astro.url.pathname}.png`;
+const { Content, remarkPluginFrontmatter } = await project.render();
+
+// remarkPluginFrontmatter.date will be changed to string, so we parse it again.
+if (typeof remarkPluginFrontmatter.date === 'string') {
+	project.data.date = new Date(remarkPluginFrontmatter.date);
+}
+if (typeof remarkPluginFrontmatter.lastmod === 'string') {
+	project.data.lastmod = new Date(remarkPluginFrontmatter.lastmod);
+}
+project.data.readingTime = remarkPluginFrontmatter.readingTime;
+---
+
+<MarkdownLayout {...project.data} socialImage={socialImage} currentNav="Blog">
+	<Content />
+</MarkdownLayout>
